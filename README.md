@@ -22,7 +22,7 @@
 
 
 
-## CONHECIMENTO:
+## MY SKILLS:
 
 #### Linguagens que uso no meu dia:
 
