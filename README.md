@@ -13,8 +13,15 @@
 
 ### Olá! Eu sou Bergkley 👋
 
-![Berg GitHub stats](https://github-readme-stats.vercel.app/api?username=Bergkley&show_icons=true&theme=dracula)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00CED1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Bergkley+Brasil;I'm+18+years+old;I'm+from+Brazil;I+Graduated+Redes+Computadores;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+[![Berg github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bergkley&bg_color=0d1117&color=00CED1&line=00CED1&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bergkley&show_icons=true&count_private=true&hide_border=true&title_color=00CED1&icon_color=00CED1&text_color=00CED1&bg_color=0d1117" alt="Bergkley github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bergkley&layout=compact&hide_border=true&title_color=00CED1&text_color=ff91a4&bg_color=0d1117" />
+</div>
 
  
  &nbsp;
@@ -22,7 +29,7 @@
 
 
 
-## MY SKILLS:
+## CONHECIMENTO:
 
 #### Linguagens que uso no meu dia:
 
@@ -60,11 +67,13 @@
 ## Contato:
 
 <div>
+<a href="https://api.whatsapp.com/send/?phone=5585986442147&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+"  target="_blank"></a> 
 <a href="https://www.instagram.com/bergkley/?igshid=NzZlODBkYWE4Ng%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href = "mailto:bergkley@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://br.linkedin.com/in/bergkley-ferreira-brasil-008680245?trk=people-guest_people_search-card" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
+<a href="https://br.linkedin.com/in/bergkley-ferreira-brasil-008680245?trk=people-guest_people_search-card" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://api.whatsapp.com/send/?phone=5585986442147&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  
-
-  
