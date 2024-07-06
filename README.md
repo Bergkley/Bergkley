@@ -19,7 +19,7 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bergkley&show_icons=true&count_private=true&hide_border=true&title_color=00CED1&icon_color=00CED1&text_color=00CED1&bg_color=0d1117" alt="Bergkley github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bergkley&show_icons=true&count_private=true&hide_border=true&title_color=00CED1&icon_color=00CED1&text_color=00CED1&bg_color=0d1117&cache_seconds=1800" alt="Bergkley github stats" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bergkley&layout=compact&hide_border=true&title_color=00CED1&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
